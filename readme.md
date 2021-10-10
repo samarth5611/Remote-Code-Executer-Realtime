@@ -30,22 +30,28 @@ The client side app submits the code and language id to the server through the A
 
 - Homepage
   <p align="center"> 
-<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Home.png">
+<a href="https://imgur.com/5rGqGJG"><img src="https://i.imgur.com/5rGqGJG.png" title="source: imgur.com" /></a>
+
 </p>
 
 - Joined Notification when other user joined the coding Room
 <p align="center"> 
-<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-joined.png">
+<a href="https://imgur.com/qkE4lLa"><img src="https://i.imgur.com/qkE4lLa.png" title="source: imgur.com" /></a>
 </p>
 
 - Leaved Notification when other user Leave the coding Room
 
 <p align="center"> 
-<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Leave.png">
+<a href="https://imgur.com/rnJPrBQ"><img src="https://i.imgur.com/rnJPrBQ.png" title="source: imgur.com" /></a>
 </p>
 
 - Main Interface
 
 <p align="center"> 
-<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Features.jpg">
+<a href="https://imgur.com/nCY7x6r"><img src="https://i.imgur.com/nCY7x6r.png" title="source: imgur.com" /></a>
 </p>
+
+<!-- https://imgur.com/nCY7x6r
+https://imgur.com/5rGqGJG
+https://imgur.com/qkE4lLa
+https://imgur.com/rnJPrBQ -->
