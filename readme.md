@@ -13,6 +13,7 @@ The client side app submits the code and language id to the server through the A
 - Backend APIs and logic to handle the submitted code, create a docker container, execute it, and return the results.
 - Minimal UI for user interaction and code submission
 - Real-time Screen sharing implemented using Web-Sockets.
+- User can join in Room, and start Coding.
 
 ## Tech stack
 
@@ -20,7 +21,7 @@ The client side app submits the code and language id to the server through the A
 - Express.js
 - Mongodb
 - Mongoose
-- Socket.IO
+- SocketIO
 - React
 - Bash
 - Docker
@@ -28,9 +29,23 @@ The client side app submits the code and language id to the server through the A
 ## Snapshots
 
 - Homepage
-  ![](/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Home.png)
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <p align="center"> 
+<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Home.png">
+</p>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Joined Notification when other user joined the coding Room
+<p align="center"> 
+<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-joined.png">
+</p>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Leaved Notification when other user Leave the coding Room
+
+<p align="center"> 
+<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Leave.png">
+</p>
+
+- Main Interface
+
+<p align="center"> 
+<img src="/home/sammy/Documents/Projects/RCEmain/client/src/Assests/RCE-Features.jpg">
+</p>
