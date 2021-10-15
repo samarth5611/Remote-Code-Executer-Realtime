@@ -11,9 +11,9 @@ The client side app submits the code and language id to the server through the A
 ## Features
 
 - Backend APIs and logic to handle the submitted code, create a docker container, execute it, and return the results.
-- Minimal UI for user interaction and code submission
 - Real-time Screen sharing implemented using Web-Sockets.
-- User can join in Room, and start Coding.
+- User can join in Room, and start Coding. There is no SignIn and SignUp options for simplicity.
+- Timeouts have been defined so that no code takes up too much of the server's time
 
 ## Tech stack
 
